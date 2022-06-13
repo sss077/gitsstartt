@@ -23,7 +23,7 @@ ul {
 /* header start */
 header {
     min-height: 100vh;
-    background: cornflowerblue;
+    background: darkred;
     display: flex;
     flex-direction: column
 }
@@ -61,6 +61,7 @@ header {
     /* background: red; */
     flex-grow: 1;
     text-align: center;
+    color: #fff;
 }
 
 .header__title {
